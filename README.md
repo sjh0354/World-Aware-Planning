@@ -12,6 +12,8 @@ This repository contains the official implementation of our paper on enhancing l
 ## 🖥️ Installation
 Note: we follow the installation process of EB-ALFRED from EmbodiedBench
 
+Many thanks to EmbodiedBench for a comprehensive benchmark! (https://github.com/EmbodiedBench/EmbodiedBench)
+
 **Download repo**
 ```bash
 git clone git@github.com:EmbodiedBench/EmbodiedBench.git

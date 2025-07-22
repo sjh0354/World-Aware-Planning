@@ -20,7 +20,7 @@ World-aware Planning Narratives Enhance Large Vision-Language Model Planner
 <p align="center">Fudan University, Shanghai Innovation Institute, Shanghai AI Laboratory</p>
 
 ## 🔥Overview
-This repository contains the official implementation of our paper on enhancing large vision-language models (LVLMs) with world-aware planning narratives. Our approach bridges the gap between high-level task instructions and nuanced real-world environments by integrating contextual world knowledge into planning systems [1].
+This repository contains the official implementation of our paper on enhancing large vision-language models (LVLMs) with world-aware planning narratives. Our approach bridges the gap between high-level task instructions and nuanced real-world environments by integrating contextual world knowledge into planning systems.
 
 ## 🚀Key Features
 - Framework for enhancing vision-language models with contextual reasoning

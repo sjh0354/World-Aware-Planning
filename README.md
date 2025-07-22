@@ -1,5 +1,23 @@
+<h1 align="center">
+World-aware Planning Narratives Enhance Large Vision-Language Model Planner
+</h1>
 
-# World-aware Planning Narratives for Large Vision-Language Models
+
+<p align="center">
+  📄 <a href="https://arxiv.org/pdf/2506.21230"><strong>Paper</strong></a> |  
+  🤗 <a href="https://huggingface.co/datasets/Michael0354/World-Aware-Planning"><strong>Dataset</strong></a> |
+</p>
+
+
+<p align="center">
+    <a href="">Junhao Shi*</a>, 
+    <a href="">Zhaoye Fei*</a>, 
+    <a href="">Siyin Wang</a>, 
+    <a href="">Qipeng Guo</a>, 
+    <a href="">Jingjing Gong</a>, 
+    <a href="">Xipeng Qiu</a>
+</p>
+<p align="center">Fudan University, Shanghai Innovation Institute, Shanghai AI Laboratory</p>
 
 ## 🔥Overview
 This repository contains the official implementation of our paper on enhancing large vision-language models (LVLMs) with world-aware planning narratives. Our approach bridges the gap between high-level task instructions and nuanced real-world environments by integrating contextual world knowledge into planning systems [1].
